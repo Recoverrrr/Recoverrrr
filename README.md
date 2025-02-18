@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python coding, GUI Design, Cyber Security/IT
 - 💞️ I’m looking to collaborate on anything, just reach out!
 - 📫 How to reach me: https://x.com/Recoverrr
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I just started my journey into all of this last year!
 
 <!---
