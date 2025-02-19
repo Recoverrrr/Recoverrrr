@@ -32,7 +32,14 @@
 
 ###
 
-<h6 align="left">• 👋 Hi, I’m @Recoverrrr<br>• 👀 I’m interested in all things tech & web3; specifically Python coding, GUI Design, Cyber Security/IT, & Blockchain tools<br>• 🌱 I’m currently learning/studying Python coding, GUI Design, Cyber Security/IT<br>• 💞️ I’m looking to collaborate on anything, just reach out! I'm ALWAYS willing to learn & help!<br>• 📫 How to reach me: (Any of the above hyperlinks)<br>• ⚡ Fun fact: I currently work in the automotive field buying/selling cars for my own dealership. I have always had a passion for the tech field, specifically Cyber Security, and decided to take the leap of faith and get my toes wet learning something new! I just started my journey into all of this, last year. Currently, with around 6 months experience & actively testing my skills while learning new ones I am taking action to be officially certified and hopefully start a new career in this ever growing industry! Thanks a ton!</h6>
+<h6 align="left">
+• 👋 Hi, I’m @Recoverrrr<br>
+• 👀 I’m interested in all things tech & web3; specifically Python coding, GUI Design, Cyber Security/IT, & Blockchain tools<br>
+• 🌱 I’m currently learning/studying Python coding, GUI Design, Cyber Security/IT<br>
+• 💞️ I’m looking to collaborate on anything, just reach out! I'm ALWAYS willing to learn & help!<br>
+• 📫 How to reach me: (Any of the above hyperlinks)<br>
+• ⚡ Fun fact: I currently work in the automotive field buying/selling cars for my own dealership. I have always had a passion for the tech field, specifically Cyber Security, and decided to take the leap of faith and get my toes wet learning something new! I just started my journey into all of this, last year. Currently, with around 6 months experience & actively testing my skills while learning new ones I am taking action to be officially certified and hopefully start a new career in this ever growing industry! Thanks a ton!
+</h6>
 
 ###
 
@@ -120,7 +127,11 @@
 
 ###
 
-<h6 align="left">• Cyber Security Essentials via IBM<br>•  Cyber Security Tools & Cyberattacks via IBM<br><br>*Actively learning and adding new certifications*</h6>
+<h6 align="left">
+• Cyber Security Essentials via IBM<br>
+•  Cyber Security Tools & Cyberattacks via IBM<br><br>
+*Actively learning and adding new certifications*
+</h6>
 
 ###
 
@@ -152,6 +163,11 @@
 
 ###
 
-<h5 align="center">Hope you found my GitHub intro informative and well put together. Feel free to take a look at my repositories here: https://github.com/Recoverrrr?tab=repositories<br><br>Thank you all for your time, never hesitate to reach out!😎</h5>
+<h5 align="center">
+Hope you found my GitHub intro informative and well put together. Feel free to take a look at my repositories here: https://github.com/Recoverrrr?tab=repositories<br><br>
+Thank you all for your time, never hesitate to reach out!😎
+</h5>
 
 ###
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Recoverrrr%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
