@@ -171,5 +171,5 @@ Thank you all for your time, never hesitate to reach out!😎
 ###
 
 <div align="center">
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=THANKS%20FOR%20STOPPING%20BY%20🙏&text2=Recoverrrr&width=800&height=280)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=THANKS%20FOR%20STOPPING%20BY%20🙏&text2=%20Recoverrrr&width=800&height=280)](https://github.com/Akshay090/svg-banners)
 </div>
