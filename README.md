@@ -172,6 +172,6 @@ Thank you all for your time, never hesitate to reach out!😎
 
 <div align="center">
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=origin&text1=THANKS%20FOR%20STOPPING%20BY%20🙏&text2=%20Recoverrrr&width=800&height=280" alt="SVG Banners" />
+    <img src="https://svg-banners.vercel.app/api?type=origin&text1=THANKS%20FOR%20STOPPING%20BY%20🙏&text2=%20-Recoverrrr&width=800&height=220" alt="SVG Banners" />
   </a>
 </div>
