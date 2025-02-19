@@ -155,7 +155,3 @@
 <h5 align="center">Hope you found my GitHub intro informative and well put together. Feel free to take a look at my repositories here: https://github.com/Recoverrrr?tab=repositories<br><br>Thank you all for your time, never hesitate to reach out!😎</h5>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Recoverrrr/Recoverrrr/output/snake.svg" alt="Snake animation" />
-
-###
