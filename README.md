@@ -129,7 +129,7 @@
 
 <h6 align="left">
 • Cyber Security Essentials via IBM<br>
-•  Cyber Security Tools & Cyberattacks via IBM<br><br>
+•  Intro to Cyber Security Tools & Cyberattacks via IBM<br><br>
 *Actively learning and adding new certifications*
 </h6>
 
