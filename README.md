@@ -134,8 +134,9 @@
 
  ###
 
- 
-*Actively learning and adding new certifications*
+
+<h6 align="left"> 
+**Actively learning and adding new certifications*
 </h6>
 
 ###
