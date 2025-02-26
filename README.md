@@ -136,7 +136,7 @@
 
 
 <h6 align="left"> 
-**Actively learning and adding new certifications*
+*Actively learning and adding new certifications*
 </h6>
 
 ###
