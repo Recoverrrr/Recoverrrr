@@ -133,7 +133,6 @@
 • Operating Systems: Overview, Administration & Security via IBM 
   
 • Computer Networks & Network Security via IBM 
-
 • Database Essentials & Vulnerabilities via IBM<br>
 
  ###
