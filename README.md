@@ -134,7 +134,8 @@
   
 • Computer Networks & Network Security via IBM      
   • Database Essentials & Vulnerabilities via IBM
-    • Cybersecurity Architecture via IBM
+
+  • Cybersecurity Architecture via IBM
 
  ###
 
