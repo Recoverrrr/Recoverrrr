@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgur.com/9suTeWg.png"  />
+  <img height="200" src="https://pbs.twimg.com/profile_images/1951431876767252480/B8zBzmxA_400x400.jpg"  />
 </div>
 
 ###
@@ -134,7 +134,10 @@
   
 • Computer Networks & Network Security via IBM      
   • Database Essentials & Vulnerabilities via IBM<br>
-
+• Cybersecurity Architecture via IBM
+• Cybersecurity Compliance Framework, Standards & Regulations via IBM
+• Penetration Testing, Threat Hunting & Cryptograhpy via IBM
+• Incident Response & Digital Forensics via IBM
  ###
 
 
