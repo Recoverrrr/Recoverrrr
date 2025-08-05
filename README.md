@@ -134,7 +134,7 @@
   
 • Computer Networks & Network Security via IBM      
   • Database Essentials & Vulnerabilities via IBM
-• Cybersecurity Architecture via IBM
+  • Cybersecurity Architecture via IBM
 • Cybersecurity Compliance Framework, Standards & Regulations via IBM
 • Penetration Testing, Threat Hunting & Cryptograhpy via IBM
 • Incident Response & Digital Forensics via IBM <br>
